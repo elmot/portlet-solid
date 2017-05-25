@@ -1,0 +1,4 @@
+target/
+*.iml
+.idea/
+src/main/webapp/VAADIN/themes/solidportlettheme/styles.css
